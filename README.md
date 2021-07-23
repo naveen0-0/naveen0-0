@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naveen0-0
 - 👀 I’m interested in Cricket and Chess
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on .....
 - 📫 How to reach me baddigamnaveenkumarredy1910@gmail.com
 
